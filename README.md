@@ -1,1 +1,1 @@
-# Juliana_Dubecka_AU24
+# Repository for Data Analytics Engineering program
